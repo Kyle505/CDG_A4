@@ -5,7 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - box
+<<<<<<< Updated upstream
   - EndGame
+=======
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
@@ -15,7 +18,11 @@ TagManager:
   - UI
   - 
   - 
+<<<<<<< Updated upstream
   - 
+=======
+  - whatStopMovement
+>>>>>>> Stashed changes
   - 
   - 
   - 
